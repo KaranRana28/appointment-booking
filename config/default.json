@@ -1,0 +1,8 @@
+{
+   "jwtPrivateKey" : "calendly#PrivateKey",
+   "serverurl" : "http://localhost:3000",
+   "dbConf" : {
+      "db":"calendly",
+      "host":"localhost"
+   }
+}
